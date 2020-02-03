@@ -6,6 +6,7 @@ step3 - diving laughter and non laughter files in seprate folders
 step4 - training with svm
 step5 - training with knn
 step6 - training with gmm
+step7- making non laughter files again with t_overlap 0.5,0.25.0.375 , now there are three non laugh folders
 step7 - sfs and sbs for knn and gmm
 step8 - getting the outputs in seprate folders
 step9 - saving those files for training the detector model
